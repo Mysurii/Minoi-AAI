@@ -1,2 +1,74 @@
 # Logboek AI
 
+| **Probleemanalyse en basiskennis** | **Vereiste soort** | **Soort** | **Link naar bewijs** | **Sprint** |
+| --- | --- | --- | --- | --- |
+| Matrixvermenigvuldigen | T | | | 1 |
+| Determinant | T | | | 1 |
+| Partieel differentieren | T | | | 1 |
+| Activatiefuncties | T | | | 1 |
+| Inverse matrix | T | | | 1 |
+| Transpose matrix | T | | | 1 |
+| Inproduct | T | | | 1 |
+| Comprehensions | T | | | 1 |
+| Dictionaries python | T | | | 1 |
+| Slicing | T | | | 1 |
+| Supervised vs unsupervised learning | K | | | 1 |
+| Clustering | K | | | 1 |
+| Stochastic gradient descent | T | | | 2 |
+| Backpropagation | T | | | 2 |
+| Geschikte performance measures kiezen | A | | | 1 |
+| Relatie wiskunde en AI | A | | | 3 |
+| | | | | |
+| **Inzicht verkrijgen in data** | **Vereiste soort** | **Soort** | **Link naar bewijs** |
+ |
+| Scatter matrix | A | | | 1 |
+| Data visualiseren | A | | | 1 |
+| Normaalverdeling | T | | | 1 |
+| Regressie-analyse | T | | | 1 |
+| | | | | |
+| **Data voorbereiden en feature selection** | | | | |
+| Z-scores | T | | | 1,2 |
+| Standaardafwijking | T | | | 1 |
+| Normaliseren | T | | | 1,2 |
+| T-toets | A | | | 1 |
+| ANOVA | T | | | 1,2 |
+| Correlatiematrix | A | | | 1 |
+| PCA | T | | | 2 | 
+ | | | | |
+| **Model selecteren, instellen, trainen en testen/valideren** | | | | |
+| Geschikt algoritme kiezen | A | | | 3 |
+| KNN | A | | | 1 |
+| SVM | A | | | 1 |
+| Naive Bayes | A | | | 1 |
+| Linear regression | A | | | 1 |
+| Logistic regression | A | | | 1 |
+| Decision tree | A | | | 1 |
+| Random forest | A | | | 1 |
+| Clustering | T | | 2 | |
+| | | | |
+| Dense neural network | A | | | 2 |
+| Convolutional neural network | A | | | 2 |
+| Recurrent neural network | T | | | 2 |
+| Residual neural network | K | | | 2 |
+| Autoencoders | T | | | 2 |
+| Adversarial learning | T | | | 3 |
+| Reinforcement learning | T | | | 2 |
+| | | | | |
+| **Model verbeteren** | | | | |
+| Cross validation | T | | | 1 |
+| Ensemble methods | T | | | 2 |
+| Transfer learning | T | | | 2 |
+| XAI extensies | A | | | 3 |
+| Taalmodellen verfijnen en integreren | T | | | 3 | |
+ | | | | |
+| **Evalueren** | | | | |
+| Overfitting en underfitting | A |  | | 1 |
+| Learning curve | A | | | 1 |
+| Confusion matrix | A | | | 1 |
+| ROC curve | A | | | 1 |
+| Testen op bias en betrouwbaarheid | T | | | 3 |
+| | | | | |
+| **Toepassingen** | | | | |
+| Neural network from scratch | | | | 1 |
+| Optimaliseren (gebruik GPU, Cloud, real-time) | T | | | 3 |
+| Kwaliteit AAI software | T | | | 3 |
