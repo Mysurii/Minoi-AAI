@@ -14,7 +14,7 @@
 |  |  |  |
 |  |  |  |
 |  |  |  |
-| Supervised vs unsupervised learning | K |  |
+|  |  |  |
 |  |  |  |
 
 
