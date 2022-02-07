@@ -1,5 +1,23 @@
 # Logboek AI
 
+## Bootcamp
+
+| **Datum** | **Informatie** | **Notebook** |
+|-----------|----------------|--------------|
+| 07-02-2022 | Basic python knowledge | [bootcamp-dag-1](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Bootcamp/d1/bootcamp-dag-1.ipynb) |
+| 08-02-2022 |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+| Supervised vs unsupervised learning | K |  |
+|  |  |  |
+
+
 | **Probleemanalyse en basiskennis** | **Vereiste soort** | **Soort** | **Link naar bewijs** | **Sprint** |
 | --- | --- | --- | --- | --- |
 | Matrixvermenigvuldigen | T | | | 1 |
