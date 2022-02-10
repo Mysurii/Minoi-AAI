@@ -7,7 +7,7 @@
 | 07-02-2022 | Basic python knowledge | [bootcamp-dag-1](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Bootcamp/d1/bootcamp-dag-1.ipynb) |
 | 08-02-2022 | Working with pandas & basic machine learning things like knn | [pandas oefeningen](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Bootcamp/d2/pandas-dag-2.ipynb)<br /> [Titanic](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Bootcamp/d2/Opdracht_titanic_middag2.ipynb) |
 | 09-02-2022 | Statistics and matplotlib | [statistics](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Bootcamp/d3/statistics.ipynb)<br/>[Pima](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Bootcamp/d3/Pima.ipynb) |
-|  |  |  |
+| 10-02-2022 | Working with openCV and numpy | [openCV](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Bootcamp/d4/2022_02_10_OpenCV_opdracht.ipynb)<br/>[Numpy](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Bootcamp/d4/2022_02_10_NumPy_opdracht.ipynb) |
 |  |  |  |
 |  |  |  |
 |  |  |  |
