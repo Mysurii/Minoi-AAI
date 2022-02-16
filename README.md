@@ -10,7 +10,7 @@
 | 10-02-2022 | Working with openCV and numpy | [openCV](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Bootcamp/d4/2022_02_10_OpenCV_opdracht.ipynb)<br/>[Numpy](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Bootcamp/d4/2022_02_10_NumPy_opdracht.ipynb) |
 | 14-02-2022 | Heatmap, matplotlib and z-scores | [Z-scores](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Bootcamp/d6/Bootcamp_dag_6.ipynb) |
 | 15-02-2022 | Intro to deeplearning | [Iris - octhend](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Bootcamp/d7/iris_digits_nn.ipynb)<br/>[IMDB - middag](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Bootcamp/d7/IMDB_opdracht.ipynb) |
-|  |  |  |
+| 16-02-2022 | Text generation | [Text generation](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Bootcamp/d8/hazes-char.ipynb) |
 |  |  |  |
 |  |  |  |
 |  |  |  |
