@@ -11,7 +11,7 @@
 | 14-02-2022 | Heatmap, matplotlib and z-scores | [Z-scores](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Bootcamp/d6/Bootcamp_dag_6.ipynb) |
 | 15-02-2022 | Intro to deeplearning | [Iris - octhend](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Bootcamp/d7/iris_digits_nn.ipynb)<br/>[IMDB - middag](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Bootcamp/d7/IMDB_opdracht.ipynb) |
 | 16-02-2022 | Text generation | [Text generation](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Bootcamp/d8/hazes-char.ipynb) |
-| 17-02-2022 | Knn & cnn Mnist | [knn](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Bootcamp/d9/2022_02_17_MNIST_kNN_opdracht.ipynb) |
+| 17-02-2022 | Knn & cnn Mnist | [knn](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Bootcamp/d9/2022_02_17_MNIST_kNN_opdracht.ipynb)<br/>[cnn](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Bootcamp/d9/2022_02_17_MNIST_CNN_opdracht.ipynb) |
 |  |  |  |
 |  |  |  |
 |  |  |  |
