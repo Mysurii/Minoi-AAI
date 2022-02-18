@@ -12,10 +12,7 @@
 | 15-02-2022 | Intro to deeplearning | [Iris - octhend](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Bootcamp/d7/iris_digits_nn.ipynb)<br/>[IMDB - middag](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Bootcamp/d7/IMDB_opdracht.ipynb) |
 | 16-02-2022 | Text generation | [Text generation](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Bootcamp/d8/hazes-char.ipynb) |
 | 17-02-2022 | Knn & cnn Mnist | [knn](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Bootcamp/d9/2022_02_17_MNIST_kNN_opdracht.ipynb)<br/>[cnn](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Bootcamp/d9/2022_02_17_MNIST_CNN_opdracht.ipynb) |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| 18-02-2022 | Reflectie op de bootcamp en leerdoelen | [reflectie](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/wikis/Bootcamp-reflectie) |
 
 
 | **Probleemanalyse en basiskennis** | **Vereiste soort** | **Soort** | **Link naar bewijs** | **Sprint** |
