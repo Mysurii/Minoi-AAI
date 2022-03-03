@@ -34,8 +34,7 @@
 | Geschikte performance measures kiezen | A | | | 1 |
 | Relatie wiskunde en AI | A | | | 3 |
 | | | | | |
-| **Inzicht verkrijgen in data** | **Vereiste soort** | **Soort** | **Link naar bewijs** |
- |
+| **Inzicht verkrijgen in data** | **Vereiste soort** | **Soort** | **Link naar bewijs** ||
 | Scatter matrix | A | | | 1 |
 | Data visualiseren | A | | | 1 |
 | Normaalverdeling | T | | | 1 |
