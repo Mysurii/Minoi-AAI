@@ -47,16 +47,24 @@ class NeuralNetwork:
         return input_array
 
     def fit(self, input_list, target):
+        # Stap 1: Get the guesses
         outputs = self.predict(input_list)
 
-        target_array = np.array(target)
+        errors = target - outputs
+        print('errors', errors)
 
-        error = np.subtract(outputs, target_array)
+        # Stap 2: Calculate the output errors
 
-        print('target', target_array)
-        print('output', outputs)
+        print('output:', outputs)
 
-        print(error)
+        # target_array = np.array(target)
+
+        # error = np.subtract(outputs, target_array)
+
+        # print('target', target_array)
+        # print('output', outputs)
+
+        # print(error)
 
 
 nn = NeuralNetwork()
@@ -64,9 +72,6 @@ nn = NeuralNetwork()
 nn.add_layer(2, 3, sigmoid)
 nn.add_layer(3, 2)
 
-print(nn.predict([1, 1]))
-print(sigmoid(100))
-a = np.exp(10)
-print(a)
+print(nn.predict([3, 1]))
 
-nn.fit([12, 1], [12, 20])
+# nn.fit([12, 1], [12, 20])
