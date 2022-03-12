@@ -17,26 +17,26 @@
 
 | **Probleemanalyse en basiskennis** | **Vereiste soort** | **Soort** | **Link naar bewijs** | **Sprint** |
 | --- | --- | --- | --- | --- |
-| Matrixvermenigvuldigen | T | | | 1 |
-| Determinant | T | | | 1 |
-| Partieel differentieren | T | | | 1 |
-| Activatiefuncties | T | | | 1 |
-| Inverse matrix | T | | | 1 |
-| Transpose matrix | T | | | 1 |
-| Inproduct | T | | | 1 |
-| Comprehensions | T | | | 1 |
-| Dictionaries python | T | | | 1 |
+| Matrixvermenigvuldigen | T | T | [Matrx-vermenigvuldigen (papier)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Lecture%201/les1.2.jpg) | 1|
+| Determinant | T | T | [Determinant 1 (papier)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Lecture%201/les1.4.jpg)<br>[Determinant 2 (papier)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Lecture%201/les1.5.jpg) | 1 |
+| Partieel differentieren | K | | | 1 |
+| Activatiefuncties | T | K | [Activatiefuncties 1 (papier)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Lecture%202/les2.1.jpg)<br>[Activatiefuncties 2 (papier)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Lecture%202/les2.2.jpg) | 1 |
+| Inverse matrix | T | T | [Inverse 1 (papier)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Lecture%201/les1.4.jpg)<br>[Inverse 2 (papier)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Lecture%201/les1.5.jpg)  | 1 |
+| Transpose matrix | T | T | [Transpose (papier)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Lecture%201/les1.4.jpg)<br>[Transpose 2 (papier)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Lecture%201/les1.5.jpg) | 1 |
+| Inproduct | T | T | [Inproduct (papier)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Lecture%201/les1.1.jpg)<br>[Transpose (papier)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Lecture%201/les1.4.jpg)<br>[Transpose 2 (papier)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Lecture%201/les1.5.jpg)  | 1 |
+| Comprehensions | T | T | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb) | 1 |
+| Dictionaries python | T | T | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb) | 1 |
 | Slicing | T | | | 1 |
 | Supervised vs unsupervised learning | K | | | 1 |
 | Clustering | K | | | 1 |
 | Stochastic gradient descent | T | | | 2 |
-| Backpropagation | T | | | 2 |
-| Geschikte performance measures kiezen | A | | | 1 |
+| Backpropagation | T | T | [Backpropagation (nn from scratch)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Python/nn.py) | 2 |
+| Geschikte performance measures kiezen | A | A | [Heart Disease - Recall](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb)  | 1 |
 | Relatie wiskunde en AI | A | | | 3 |
 | | | | | |
 | **Inzicht verkrijgen in data** | **Vereiste soort** | **Soort** | **Link naar bewijs** ||
 | Scatter matrix | A | | | 1 |
-| Data visualiseren | A | | | 1 |
+| Data visualiseren | A | A | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb) | 1 |
 | Normaalverdeling | T | | | 1 |
 | Regressie-analyse | T | | | 1 |
 | | | | | |
@@ -46,7 +46,7 @@
 | Normaliseren | T | | | 1,2 |
 | T-toets | A | | | 1 |
 | ANOVA | T | | | 1,2 |
-| Correlatiematrix | A | | | 1 |
+| Correlatiematrix | A | A | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb)| 1 |
 | PCA | T | | | 2 | 
  | | | | |
 | **Model selecteren, instellen, trainen en testen/valideren** | | | | |
@@ -55,9 +55,9 @@
 | SVM | A | | | 1 |
 | Naive Bayes | A | | | 1 |
 | Linear regression | A | | | 1 |
-| Logistic regression | A | | | 1 |
-| Decision tree | A | | | 1 |
-| Random forest | A | | | 1 |
+| Logistic regression | A | A | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb) | 1 |
+| Decision tree | A | A | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb) | 1 |
+| Random forest | A | A | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb) | 1 |
 | Clustering | T | | 2 | |
 | | | | |
 | Dense neural network | A | | | 2 |
@@ -78,11 +78,11 @@
 | **Evalueren** | | | | |
 | Overfitting en underfitting | A |  | | 1 |
 | Learning curve | A | | | 1 |
-| Confusion matrix | A | | | 1 |
+| Confusion matrix | A | A | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb) | 1 |
 | ROC curve | A | | | 1 |
 | Testen op bias en betrouwbaarheid | T | | | 3 |
 | | | | | |
 | **Toepassingen** | | | | |
-| Neural network from scratch | | | | 1 |
+| Neural network from scratch | | | [nn from scratch (Python)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Python/nn.py) | 1 |
 | Optimaliseren (gebruik GPU, Cloud, real-time) | T | | | 3 |
 | Kwaliteit AAI software | T | | | 3 |
