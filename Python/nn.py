@@ -48,14 +48,14 @@ class NeuralNetwork:
         return input_array
 
     def fit(self, input_list, target):
-        # Stap 1: Get the guesses
+        # Step 1: Get the guesses
         target = np.array(target, ndmin=2).T
         outputs = self.predict(input_list)
 
-        # Stap 2: Calculate the output errors
+        # Step 2: Calculate the output errors
         output_errors = target - outputs
 
-        # Stap 3: Calculate hidden layer errors
+        # Step 3: Calculate hidden layer errors
         for layer in reversed(self.layers):
             weights = np.transpose(layer['weights'])
 
