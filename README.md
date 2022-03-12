@@ -27,7 +27,7 @@
 | Comprehensions | T | T | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb) | 1 |
 | Dictionaries python | T | T | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb) | 1 |
 | Slicing | T | | | 1 |
-| Supervised vs unsupervised learning | K | | | 1 |
+| Supervised vs unsupervised learning | K | K | [Sup vs Unsup](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/sup_vs_unsup.md) | 1 |
 | Clustering | K | | | 1 |
 | Stochastic gradient descent | T | | | 2 |
 | Backpropagation | T | T | [Backpropagation (nn from scratch)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Python/nn.py) | 2 |
