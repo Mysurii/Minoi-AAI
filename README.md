@@ -19,7 +19,7 @@
 | --- | --- | --- | --- | --- |
 | Matrixvermenigvuldigen | T | T | [Matrx-vermenigvuldigen (papier)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Lecture%201/les1.2.jpg) | 1|
 | Determinant | T | T | [Determinant 1 (papier)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Lecture%201/les1.4.jpg)<br>[Determinant 2 (papier)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Lecture%201/les1.5.jpg) | 1 |
-| Partieel differentieren | K | | | 1 |
+| Partieel differentieren | K | | [Partieel differentieren (papier)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Lecture%203/les3.1.jpg) | 1 |
 | Activatiefuncties | T | K | [Activatiefuncties 1 (papier)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Lecture%202/les2.1.jpg)<br>[Activatiefuncties 2 (papier)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Lecture%202/les2.2.jpg) | 1 |
 | Inverse matrix | T | T | [Inverse 1 (papier)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Lecture%201/les1.4.jpg)<br>[Inverse 2 (papier)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Lecture%201/les1.5.jpg)  | 1 |
 | Transpose matrix | T | T | [Transpose (papier)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Lecture%201/les1.4.jpg)<br>[Transpose 2 (papier)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Lecture%201/les1.5.jpg) | 1 |
@@ -58,7 +58,7 @@
 | Logistic regression | A | A | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb) | 1 |
 | Decision tree | A | A | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb) | 1 |
 | Random forest | A | A | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb) | 1 |
-| Clustering | T | | 2 | |
+| Clustering | T | |  | 2 |
 | | | | |
 | Dense neural network | A | | | 2 |
 | Convolutional neural network | A | | | 2 |
