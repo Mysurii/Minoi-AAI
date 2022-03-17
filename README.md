@@ -76,7 +76,7 @@
 | Taalmodellen verfijnen en integreren | T | | | 3 | |
  | | | | |
 | **Evalueren** | | | | |
-| Overfitting en underfitting | A |  | | 1 |
+| Overfitting en underfitting | A | T | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb)  | 1 |
 | Learning curve | A | | | 1 |
 | Confusion matrix | A | A | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb) | 1 |
 | ROC curve | A | | | 1 |
