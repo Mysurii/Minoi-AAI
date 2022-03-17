@@ -4,3 +4,11 @@
 ./datasets
 Bootcamp
 ./idea
+./Machine Learning/Animals-10
+
+*.jpg
+*.jpeg
+*.jpe
+*.jif
+*.jfif
+*.jfi
