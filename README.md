@@ -31,7 +31,7 @@
 | Clustering | K | K | [Sup vs Unsup](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/sup_vs_unsup.md) | 1 |
 | Stochastic gradient descent | T | | | 2 |
 | Backpropagation | T | T | [Backpropagation (nn from scratch)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Python/nn.py) | 2 |
-| Geschikte performance measures kiezen | A | A | [Heart Disease - Recall](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb)<br>[Medical Cost](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/medical-cost.ipynb) | 1 |
+| Geschikte performance measures kiezen | A | A | [Heart Disease - Recall](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb)<br>[Medical Cost - R2](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/medical-cost.ipynb) | 1 |
 | Relatie wiskunde en AI | A | | | 3 |
 | | | | | |
 | **Inzicht verkrijgen in data** | **Vereiste soort** | **Soort** | **Link naar bewijs** ||
