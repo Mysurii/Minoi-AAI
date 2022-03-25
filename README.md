@@ -61,7 +61,7 @@
 | Clustering | T | |  | 2 |
 | | | | |
 | Dense neural network | A | | | 2 |
-| Convolutional neural network | A | A | [Cijfer herkenning](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Deep%20Learning/l1/2022_03_23_cijferherkenning_LeNet5_opdracht.ipynb) | 2 |
+| Convolutional neural network | A | A | [Cijfer herkenning](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Deep%20Learning/l1/2022_03_23_cijferherkenning_LeNet5_opdracht.ipynb)<br>[Image Distrortion](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Deep%20Learning/l2/images.ipynb) | 2 |
 | Recurrent neural network | T | | | 2 |
 | Residual neural network | K | | | 2 |
 | Autoencoders | T | | | 2 |
