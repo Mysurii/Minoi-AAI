@@ -42,7 +42,7 @@
 | | | | | |
 | **Data voorbereiden en feature selection** | | | | |
 | Z-scores | T | T | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb) | 1,2 |
-| Standaardafwijking | T | T | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb)<br>[Medical Cost](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/medical-cost.ipynb) | 1 |
+| Standaardafwijking | T | T | [Fake News Detection](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/fake-news-detection.ipynb)<br>[Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb)<br>[Medical Cost](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/medical-cost.ipynb) | 1 |
 | Normaliseren | T | T | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb) | 1,2 |
 | T-toets | A | A | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb) | 1 |
 | ANOVA | T | A | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb) | 1,2 |
@@ -53,10 +53,10 @@
 | Geschikt algoritme kiezen | A | | | 3 |
 | KNN | A | A | [Medical Cost](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/medical-cost.ipynb) | 1 |
 | SVM | A | A | [Medical Cost](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/medical-cost.ipynb) | 1 |
-| Naive Bayes | A | | | 1 |
+| Naive Bayes | A | A | [Fake News Detection](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/fake-news-detection.ipynb) | 1 |
 | Linear regression | A | A | [Medical Cost](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/medical-cost.ipynb) | 1 |
-| Logistic regression | A | A | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb) | 1 |
-| Decision tree | A | A | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb)<br>[Medical Cost](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/medical-cost.ipynb) | 1 |
+| Logistic regression | A | A | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb)<br>[Fake News Detection](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/fake-news-detection.ipynb) | 1 |
+| Decision tree | A | A | [Medical Cost](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/medical-cost.ipynb) | 1 |
 | Random forest | A | A | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb)<br>[Medical Cost](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/medical-cost.ipynb) | 1 |
 | Clustering | T | |  | 2 |
 | | | | |
@@ -70,14 +70,14 @@
 | | | | | |
 | **Model verbeteren** | | | | |
 | Cross validation | T |T | [Medical Cost](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/medical-cost.ipynb) | 1 |
-| Ensemble methods | T | | | 2 |
+| Ensemble methods | T | T | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb) | 2 |
 | Transfer learning | T | | | 2 |
 | XAI extensies | A | | | 3 |
 | Taalmodellen verfijnen en integreren | T | | | 3 | |
  | | | | |
 | **Evalueren** | | | | |
-| Overfitting en underfitting | A | T | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb)<br>[Medical Cost](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/medical-cost.ipynb)  | 1 |
-| Learning curve | A | | | 1 |
+| Overfitting en underfitting | A | T | [Fake News Detection](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/fake-news-detection.ipynb)<br>[Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb)<br>[Medical Cost](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/medical-cost.ipynb)  | 1 |
+| Learning curve | A | | [Fake News Detection](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/fake-news-detection.ipynb) | 1 |
 | Confusion matrix | A | A | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb) | 1 |
 | ROC curve | A | A | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb) | 1 |
 | Testen op bias en betrouwbaarheid | T | | | 3 |
