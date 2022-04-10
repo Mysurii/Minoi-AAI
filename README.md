@@ -17,14 +17,14 @@
 
 | **Probleemanalyse en basiskennis** | **Vereiste soort** | **Soort** | **Link naar bewijs** | **Sprint** |
 | --- | --- | --- | --- | --- |
-| Matrixvermenigvuldigen | T | T | [Matrx-vermenigvuldigen (papier)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Lecture%201/les1.2.jpg) | 1|
+| Matrixvermenigvuldigen | T | T | [Rekenen met vectoren en matrices (pdf)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Rekenen%20met%20vectoren%20en%20matrixen.pdf) | 1|
 | Determinant | T | T | [Determinant 1 (papier)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Lecture%201/les1.4.jpg)<br>[Determinant 2 (papier)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Lecture%201/les1.5.jpg) | 1 |
-| Partieel differentieren | K | K | [Partieel differentieren (papier)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Lecture%203/les3.1.jpg) | 1 |
-| Activatiefuncties | T | K | [Activatiefuncties 1 (papier)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Lecture%202/les2.1.jpg)<br>[Activatiefuncties 2 (papier)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Lecture%202/les2.2.jpg) | 1 |
-| Inverse matrix | T | T | [Inverse 1 (papier)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Lecture%201/les1.4.jpg)<br>[Inverse 2 (papier)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Lecture%201/les1.5.jpg)  | 1 |
-| Transpose matrix | T | T | [Transpose (papier)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Lecture%201/les1.4.jpg)<br>[Transpose 2 (papier)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Lecture%201/les1.5.jpg) | 1 |
-| Inproduct | T | T | [Inproduct (papier)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Lecture%201/les1.1.jpg)<br>[Transpose (papier)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Lecture%201/les1.4.jpg)<br>[Transpose 2 (papier)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Lecture%201/les1.5.jpg)  | 1 |
-| Comprehensions | T | T | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb) | 1 |
+| Partieel differentieren | K | K | [Gradient Descent & Partieel Differentieren (pdf)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Gradi%C3%ABnt%20Descent%20en%20Partieel%20differenti%C3%ABren.pdf) | 1 |
+| Activatiefuncties | T | K | [Activatiefuncties (pdf)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Activatiefuncties.pdf) | 1 |
+| Inverse matrix | T | T | [Inverse (pdf)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Inverse%20matrix.pdf?expanded=true&viewer=rich) | 1 |
+| Transpose matrix | T | T | [Inverse (pdf)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Inverse%20matrix.pdf?expanded=true&viewer=rich)  | 1 |
+| Inproduct | T | T | [Inverse (pdf)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Inverse%20matrix.pdf?expanded=true&viewer=rich)  | 1 |
+| Comprehensions | T | T | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb)<br>[Inproduct (papier)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Lecture%201/les1.1.jpg) | 1 |
 | Dictionaries python | T | T | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb)<br>[nn from scratch (Python)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Python/nn.py) | 1 |
 | Slicing | T | T | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb) | 1 |
 | Supervised vs unsupervised learning | K | K | [Sup vs Unsup](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/sup_vs_unsup.md) | 1 |
