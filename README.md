@@ -29,7 +29,7 @@
 | Slicing | T | T | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb) | 1 |
 | Supervised vs unsupervised learning | K | K | [Sup vs Unsup](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/sup_vs_unsup.md) | 1 |
 | Clustering | K | K | [Sup vs Unsup](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/sup_vs_unsup.md) | 1 |
-| Stochastic gradient descent | T | | | 2 |
+| Stochastic gradient descent | T | T | [Gradient Descent & Partieel Differentieren (pdf)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Gradi%C3%ABnt%20Descent%20en%20Partieel%20differenti%C3%ABren.pdf)<br>[nn from scratch (Python)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Python/nn.py) | 2 |
 | Backpropagation | T | T | [Backpropagation (nn from scratch)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Python/nn.py) | 2 |
 | Geschikte performance measures kiezen | A | A | [Heart Disease - Recall](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb)<br>[Medical Cost - R2](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/medical-cost.ipynb) | 1 |
 | Relatie wiskunde en AI | A | | | 3 |
@@ -41,9 +41,9 @@
 | Regressie-analyse | T | T | [Medical Cost](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/medical-cost.ipynb) | 1 |
 | | | | | |
 | **Data voorbereiden en feature selection** | | | | |
-| Z-scores | T | T | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb) | 1,2 |
-| Standaardafwijking | T | T | [Fake News Detection](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/fake-news-detection.ipynb)<br>[Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb)<br>[Medical Cost](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/medical-cost.ipynb) | 1 |
-| Normaliseren | T | T | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb) | 1,2 |
+| Z-scores | T | T | [Medical Cost](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/medical-cost.ipynb)  | 1,2 |
+| Standaardafwijking | T | T | [Fake News Detection](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/fake-news-detection.ipynb)<br>[Medical Cost](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/medical-cost.ipynb) | 1 |
+| Normaliseren | T | T | [Medical Cost](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/medical-cost.ipynb)<br>[Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb) | 1,2 |
 | T-toets | A | A | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb) | 1 |
 | ANOVA | T | A | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb) | 1,2 |
 | Correlatiematrix | A | A | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb)| 1 |
@@ -57,7 +57,7 @@
 | Linear regression | A | A | [Medical Cost](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/medical-cost.ipynb) | 1 |
 | Logistic regression | A | A | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb)<br>[Fake News Detection](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/fake-news-detection.ipynb) | 1 |
 | Decision tree | A | A | [Medical Cost](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/medical-cost.ipynb) | 1 |
-| Random forest | A | A | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb)<br>[Medical Cost](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/medical-cost.ipynb) | 1 |
+| Random forest | A | A | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb)| 1 |
 | Clustering | T | |  | 2 |
 | | | | |
 | Dense neural network | A | | | 2 |
