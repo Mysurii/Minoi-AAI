@@ -47,7 +47,7 @@
 | T-toets | A | A | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb) | 1 |
 | ANOVA | T | A | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb) | 1,2 |
 | Correlatiematrix | A | A | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb)| 1 |
-| PCA | T | | | 2 | 
+| PCA | T | T | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb)| 2 | 
  | | | | |
 | **Model selecteren, instellen, trainen en testen/valideren** | | | | |
 | Geschikt algoritme kiezen | A | | | 3 |
