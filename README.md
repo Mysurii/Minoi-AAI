@@ -25,19 +25,19 @@
 | Transpose matrix | T | T | [Inverse (pdf)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Inverse%20matrix.pdf?expanded=true&viewer=rich)  | 1 |
 | Inproduct | T | T | [Inverse (pdf)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Inverse%20matrix.pdf?expanded=true&viewer=rich)<br>[Inproduct (image)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Lecture%201/les1.1.jpg)  | 1 |
 | Comprehensions | T | T | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb) | 1 |
-| Dictionaries python | T | T | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb)<br>[nn from scratch (Python)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Python/nn.py) | 1 |
+| Dictionaries python | T | T | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb)<br>[nn from scratch (Python)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Python/nn.ipynb) | 1 |
 | Slicing | T | T | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb) | 1 |
 | Supervised vs unsupervised learning | K | K | [Sup vs Unsup](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/sup_vs_unsup.md) | 1 |
 | Clustering | K | K | [Sup vs Unsup](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/sup_vs_unsup.md) | 1 |
 | Stochastic gradient descent | T | T | [Gradient Descent & Partieel Differentieren (pdf)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Gradi%C3%ABnt%20Descent%20en%20Partieel%20differenti%C3%ABren.pdf)<br>[nn from scratch (Python)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Python/nn.py) | 2 |
-| Backpropagation | T | T | [Backpropagation (nn from scratch)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Python/nn.py) | 2 |
+| Backpropagation | T | T | [Backpropagation (nn from scratch)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Python/nn.ipynb) | 2 |
 | Geschikte performance measures kiezen | A | A | [Heart Disease - F1](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb)<br>[Medical Cost - R2](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/medical-cost.ipynb) | 1 |
 | Relatie wiskunde en AI | A | | | 3 |
 | | | | | |
 | **Inzicht verkrijgen in data** | **Vereiste soort** | **Soort** | **Link naar bewijs** ||
 | Scatter matrix | A | A | [Medical Cost](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/medical-cost.ipynb) | 1 |
 | Data visualiseren | A | A | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb)<br>[Medical Cost](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/medical-cost.ipynb) | 1 |
-| Normaalverdeling | T | T | [Medical Cost](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/medical-cost.ipynb)<br>[nn from scratch (Python)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Python/nn.py) | 1 |
+| Normaalverdeling | T | T | [Medical Cost](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/medical-cost.ipynb)<br>[nn from scratch (Python)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Python/nn.ipynb) | 1 |
 | Regressie-analyse | T | T | [Medical Cost](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/medical-cost.ipynb) | 1 |
 | | | | | |
 | **Data voorbereiden en feature selection** | | | | |
@@ -83,6 +83,6 @@
 | Testen op bias en betrouwbaarheid | T | | | 3 |
 | | | | | |
 | **Toepassingen** | | | | |
-| Neural network from scratch | | | [nn from scratch (Python)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Python/nn.py) | 1 |
+| Neural network from scratch | | | [nn from scratch (Python)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Python/nn.ipynb) | 1 |
 | Optimaliseren (gebruik GPU, Cloud, real-time) | T | | | 3 |
 | Kwaliteit AAI software | T | | | 3 |
