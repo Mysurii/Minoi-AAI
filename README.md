@@ -24,9 +24,9 @@
 | Inverse matrix | T | T | [Inverse (pdf)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Inverse%20matrix.pdf?expanded=true&viewer=rich) | 1 |
 | Transpose matrix | T | T | [Inverse (pdf)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Inverse%20matrix.pdf?expanded=true&viewer=rich)  | 1 |
 | Inproduct | T | T | [Inverse (pdf)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Inverse%20matrix.pdf?expanded=true&viewer=rich)<br>[Inproduct (image)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Lecture%201/les1.1.jpg)  | 1 |
-| Comprehensions | T | T | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb) | 1 |
-| Dictionaries python | T | T | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb)<br>[nn from scratch (Python)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Python/nn.ipynb) | 1 |
-| Slicing | T | T | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb) | 1 |
+| Comprehensions | T | T | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb)<br>[nn from scratch (Python)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Python/nn.ipynb) | 1 |
+| Dictionaries python | T | T | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb) | 1 |
+| Slicing | T | T | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb)<br>[nn from scratch (Python)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Python/nn.ipynb) | 1 |
 | Supervised vs unsupervised learning | K | K | [Sup vs Unsup](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/sup_vs_unsup.md) | 1 |
 | Clustering | K | K | [Sup vs Unsup](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/sup_vs_unsup.md) | 1 |
 | Stochastic gradient descent | T | T | [Gradient Descent & Partieel Differentieren (pdf)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Gradi%C3%ABnt%20Descent%20en%20Partieel%20differenti%C3%ABren.pdf)<br>[nn from scratch (Python)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Python/nn.py) | 2 |
