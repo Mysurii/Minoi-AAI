@@ -52,7 +52,7 @@
 | **Model selecteren, instellen, trainen en testen/valideren** | | | | |
 | Geschikt algoritme kiezen | A | | | 3 |
 | KNN | A | A | [Medical Cost](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/medical-cost.ipynb) | 1 |
-| SVM | A | A | [Medical Cost](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/medical-cost.ipynb) | 1 |
+| SVM | A | A | [Fake News Detection](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/fake-news-detection.ipynb)<br>[Medical Cost](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/medical-cost.ipynb) | 1 |
 | Naive Bayes | A | A | [Fake News Detection](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/fake-news-detection.ipynb) | 1 |
 | Linear regression | A | A | [Medical Cost](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/medical-cost.ipynb) | 1 |
 | Logistic regression | A | A | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb)<br>[Fake News Detection](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/fake-news-detection.ipynb) | 1 |
@@ -60,9 +60,9 @@
 | Random forest | A | A | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb)| 1 |
 | Clustering | T | |  | 2 |
 | | | | |
-| Dense neural network | A | | | 2 |
+| Dense neural network | A | A | [Fake News Detection](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/fake-news-detection.ipynb) | 2 |
 | Convolutional neural network | A | A | [Cijfer herkenning](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Deep%20Learning/l1/2022_03_23_cijferherkenning_LeNet5_opdracht.ipynb)<br>[Image Distortion](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Deep%20Learning/l2/images.ipynb) | 2 |
-| Recurrent neural network | T | | | 2 |
+| Recurrent neural network | T | T | [Fake News Detection](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/fake-news-detection.ipynb) | 2 |
 | Residual neural network | K | | | 2 |
 | Autoencoders | T | | | 2 |
 | Adversarial learning | T | | | 3 |
