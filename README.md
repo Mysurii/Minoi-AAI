@@ -84,5 +84,5 @@
 | | | | | |
 | **Toepassingen** | | | | |
 | Neural network from scratch | | | [nn from scratch (Python)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Python/nn.ipynb) | 1 |
-| Optimaliseren (gebruik GPU, Cloud, real-time) | T | | | 3 |
+| Optimaliseren (gebruik GPU, Cloud, real-time) | T | T | [Animal recognition](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/animals.ipynb)| 3 |
 | Kwaliteit AAI software | T | | | 3 |
