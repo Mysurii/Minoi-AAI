@@ -80,7 +80,7 @@
 | Learning curve | A | A | [Fake News Detection](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/fake-news-detection.ipynb) | 1 |
 | Confusion matrix | A | A | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb) | 1 |
 | ROC curve | A | A | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb) | 1 |
-| Testen op bias en betrouwbaarheid | T | | | 3 |
+| Testen op bias en betrouwbaarheid | T | T | [Bias en Betrouwbaarheid (pdf)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Deep%20Learning/Bias.pdf)| 3 |
 | | | | | |
 | **Toepassingen** | | | | |
 | Neural network from scratch | | | [nn from scratch (Python)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Python/nn.ipynb) | 1 |
