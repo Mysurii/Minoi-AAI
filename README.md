@@ -71,7 +71,7 @@
 | **Model verbeteren** | | | | |
 | Cross validation | T |T | [Medical Cost](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/medical-cost.ipynb) | 1 |
 | Ensemble methods | T | T | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb) | 2 |
-| Transfer learning | T | | | 2 |
+| Transfer learning | T | T| [ResNet-50](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Deep%20Learning/l2/2022_03_23_objectherkenning_ResNet50_opdracht.ipynb) | 2 |
 | XAI extensies | A | A | [Fake News Detection](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/fake-news-detection.ipynb) | 3 |
 | Taalmodellen verfijnen en integreren | T | | | 3 | |
  | | | | |
