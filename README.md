@@ -66,7 +66,7 @@
 | Residual neural network | K | K | [ResNet-50](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Deep%20Learning/l2/2022_03_23_objectherkenning_ResNet50_opdracht.ipynb)<br>[Image Distortion](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Deep%20Learning/l2/images.ipynb)| 2 |
 | Autoencoders | T | T | [Animal recognition](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/animals.ipynb)| 2 |
 | Adversarial learning | T | T | [Image Distortion](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Deep%20Learning/l2/images.ipynb)| 3 |
-| Reinforcement learning | T | | | 2 |
+| Reinforcement learning | T | T | [Self-driving Taxi](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Deep%20Learning/Reinforcement%20Learning.pdf)| 2 |
 | | | | | |
 | **Model verbeteren** | | | | |
 | Cross validation | T |T | [Medical Cost](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/medical-cost.ipynb) | 1 |
