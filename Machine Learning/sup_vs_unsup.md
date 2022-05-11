@@ -12,4 +12,4 @@ Supervised Learning bestaat uit twee groepen:
 
 Unsupervised Learning daarentegen is unlabeld. Je dataset heeft dus niet de uitkomsten (labels). Je probeert dus patronen te herkennen in je dataset. Denk bijvoorbeeld aan webshops die gegevens van klanten verzamelen om gepersonaliseerde suggesties te doen.
 
-Een algoritme binnen Unsupervised learning is clustering. Je probeert groepen te voorspellen met dezelfde eigenschappen (groeperen. Dit lijkt op classificatie, alleen is het verschil dat je bij classificatie al van te voren de groepen al wist. Bij clustering is dat niet zo.
+Een algoritme binnen Unsupervised learning is clustering. Je probeert groepen te voorspellen met dezelfde eigenschappen (groeperen. Dit lijkt op classificatie, alleen is het verschil dat je bij classificatie al van te voren de groepen al wist. Bij clustering is dat niet zo. Een voorbeeld hiervoor is k-means. K-means is een veel gebruite algoritme clustering algoritme. Het is effectief, efficient en simpel. Nadeel is dat het heel gevoelig is voor outliers.
