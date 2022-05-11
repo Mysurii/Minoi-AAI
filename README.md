@@ -32,7 +32,7 @@
 | Stochastic gradient descent | T | T | [Gradient Descent & Partieel Differentieren (pdf)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20&%20Statistics/Gradi%C3%ABnt%20Descent%20en%20Partieel%20differenti%C3%ABren.pdf)<br>[nn from scratch (Python)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Python/nn.py) | 2 |
 | Backpropagation | T | T | [Backpropagation (nn from scratch)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Python/nn.ipynb) | 2 |
 | Geschikte performance measures kiezen | A | A | [Heart Disease - F1](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb)<br>[Medical Cost - R2](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/medical-cost.ipynb) | 1 |
-| Relatie wiskunde en AI | A | | | 3 |
+| Relatie wiskunde en AI | A | A | [Relatie Wis/AI (pdf)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Math%20%26%20Statistics/Relatie%20Wiskunde%20en%20AI.pdf)| 3 |
 | | | | | |
 | **Inzicht verkrijgen in data** | **Vereiste soort** | **Soort** | **Link naar bewijs** ||
 | Scatter matrix | A | A | [Medical Cost](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/medical-cost.ipynb) | 1 |
@@ -58,7 +58,6 @@
 | Logistic regression | A | A | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb)<br>[Fake News Detection](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/fake-news-detection.ipynb) | 1 |
 | Decision tree | A | A | [Medical Cost](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/medical-cost.ipynb) | 1 |
 | Random forest | A | A | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb)| 1 |
-| Clustering | T | |  | 2 |
 | | | | |
 | Dense neural network | A | A | [Fake News Detection](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/fake-news-detection.ipynb)<br>[Animal recognition](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/animals.ipynb) | 2 |
 | Convolutional neural network | A | A | [Animal recognition](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/animals.ipynb)<br>[Cijfer herkenning](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Deep%20Learning/l1/2022_03_23_cijferherkenning_LeNet5_opdracht.ipynb)<br>[Image Distortion](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Deep%20Learning/l2/images.ipynb) | 2 |
