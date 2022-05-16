@@ -72,7 +72,7 @@
 | Ensemble methods | T | T | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb) | 2 |
 | Transfer learning | T | T| [ResNet-50](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Deep%20Learning/l2/2022_03_23_objectherkenning_ResNet50_opdracht.ipynb) | 2 |
 | XAI extensies | A | A | [Fake News Detection](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/fake-news-detection.ipynb) | 3 |
-| Taalmodellen verfijnen en integreren | T | T | [Fake News Detection](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/fake-news-detection.ipynb) | 3 | |
+| Taalmodellen verfijnen en integreren | T | T | [Fake News Detection](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/fake-news-detection.ipynb)<br>[BERT (project)](https://gitlab.fdmci.hva.nl/jongeja1/fake_news_detection/-/blob/main/models/text/bert.ipynb) | 3 | |
  | | | | |
 | **Evalueren** | | | | |
 | Overfitting en underfitting | A | T | [Fake News Detection](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/fake-news-detection.ipynb)<br>[Animal recognition](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/animals.ipynb)<br>[Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb)<br>[Medical Cost](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/medical-cost.ipynb)  | 1 |
