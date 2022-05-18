@@ -88,4 +88,4 @@
 
 | **Personal** | **Vereiste soort** | **Soort** | **Link naar bewijs** | **Sprint** |
 |------    |-------------    |-------    |-------    |-------    |
-| Chatbot     | T           | T     | [Testing Chatbot (website)](https://aai-chatbot-testing.netlify.app/)<br>[Training file](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Own%20Projects/api/chatbot/training.ipynb)<br>[Chatbot file](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Own%20Projects/api/chatbot/chatbot.py)<br>[API (Flask)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Own%20Projects/api/chatbot/training.ipynb)      | - |
+| Chatbot     | T           | T     | [Testing Chatbot (website)](https://aai-chatbot-testing.netlify.app/)<br>[Training file](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Own%20Projects/api/chatbot/training.ipynb)<br>[Chatbot file](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Own%20Projects/api/chatbot/chatbot.py)<br>[API (Flask)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Own%20Projects/api/app.py)      | - |
