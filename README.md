@@ -50,7 +50,7 @@
 | PCA | T | T | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb)| 2 | 
  | | | | |
 | **Model selecteren, instellen, trainen en testen/valideren** | | | | |
-| Geschikt algoritme kiezen | A | | | 3 |
+| Geschikt algoritme kiezen | A | A | [Animal recognition](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/animals.ipynb)<br>[Fake News Detection](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/fake-news-detection.ipynb)| 3 |
 | KNN | A | A | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb)<br>[Medical Cost](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/medical-cost.ipynb) | 1 |
 | SVM | A | A | [Fake News Detection](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/fake-news-detection.ipynb)<br>[Medical Cost](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/medical-cost.ipynb) | 1 |
 | Naive Bayes | A | A | [Fake News Detection](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/fake-news-detection.ipynb) | 1 |
@@ -84,8 +84,8 @@
 | **Toepassingen** | | | | |
 | Neural network from scratch | | | [nn from scratch (Python)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Python/nn.ipynb) | 1 |
 | Optimaliseren (gebruik GPU, Cloud, real-time) | T | T | [Animal recognition](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/animals.ipynb)| 3 |
-| Kwaliteit AAI software | T | | | 3 |
+| Kwaliteit AAI software | T | T | [requirements.txt (Chatbot API)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Own%20Projects/api/requirements.txt)<br>[nn from scratch (Python)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Python/nn.ipynb)| 3 |
 
 | **Personal** | **Vereiste soort** | **Soort** | **Link naar bewijs** | **Sprint** |
 |------    |-------------    |-------    |-------    |-------    |
-| Chatbot     | T           | T     | T     | [Testing Chatbot (website)](https://aai-chatbot-testing.netlify.app/)<br>[Training file]()<br>[Chatbot file](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Own%20Projects/api/chatbot/chatbot.py)<br>[API (Flask)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Own%20Projects/api/chatbot/training.ipynb)    |
+| Chatbot     | T           | T     | [Testing Chatbot (website)](https://aai-chatbot-testing.netlify.app/)<br>[Training file]()<br>[Chatbot file](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Own%20Projects/api/chatbot/chatbot.py)<br>[API (Flask)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Own%20Projects/api/chatbot/training.ipynb)      | - |
