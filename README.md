@@ -59,7 +59,7 @@
 | Decision tree | A | A | [Medical Cost](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/medical-cost.ipynb) | 1 |
 | Random forest | A | A | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb)| 1 |
 | | | | |
-| Dense neural network | A | A | [Fake News Detection](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/fake-news-detection.ipynb)<br>[Animal recognition](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/animals.ipynb) | 2 |
+| Dense neural network | A | A | [Fake News Detection](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/fake-news-detection.ipynb)<br>[Animal recognition](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/animals.ipynb)<br><br>[Chatbot file](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Own%20Projects/api/chatbot/chatbot.py) | 2 |
 | Convolutional neural network | A | A | [Animal recognition](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/animals.ipynb)<br>[Cijfer herkenning](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Deep%20Learning/l1/2022_03_23_cijferherkenning_LeNet5_opdracht.ipynb)<br>[Image Distortion](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Deep%20Learning/l2/images.ipynb) | 2 |
 | Recurrent neural network | T | T | [Fake News Detection](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/fake-news-detection.ipynb) | 2 |
 | Residual neural network | K | K | [ResNet-50](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Deep%20Learning/l2/2022_03_23_objectherkenning_ResNet50_opdracht.ipynb)<br>[Image Distortion](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Deep%20Learning/l2/images.ipynb)| 2 |
@@ -72,7 +72,7 @@
 | Ensemble methods | T | T | [Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb) | 2 |
 | Transfer learning | T | T| [ResNet-50](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Deep%20Learning/l2/2022_03_23_objectherkenning_ResNet50_opdracht.ipynb) | 2 |
 | XAI extensies | A | A | [Fake News Detection](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/fake-news-detection.ipynb) | 3 |
-| Taalmodellen verfijnen en integreren | T | T | [Fake News Detection](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/fake-news-detection.ipynb)<br>[BERT (project)](https://gitlab.fdmci.hva.nl/jongeja1/fake_news_detection/-/blob/main/models/text/bert.ipynb) | 3 | |
+| Taalmodellen verfijnen en integreren | T | T | [Fake News Detection](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/fake-news-detection.ipynb)<br>[BERT (project)](https://gitlab.fdmci.hva.nl/jongeja1/fake_news_detection/-/blob/main/models/text/bert.ipynb)<br>[Chatbot file](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Own%20Projects/api/chatbot/chatbot.py) | 3 | |
  | | | | |
 | **Evalueren** | | | | |
 | Overfitting en underfitting | A | T | [Fake News Detection](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/fake-news-detection.ipynb)<br>[Animal recognition](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/animals.ipynb)<br>[Heart Disease](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/heart_disease.ipynb)<br>[Medical Cost](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/medical-cost.ipynb)  | 1 |
@@ -85,3 +85,7 @@
 | Neural network from scratch | | | [nn from scratch (Python)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Python/nn.ipynb) | 1 |
 | Optimaliseren (gebruik GPU, Cloud, real-time) | T | T | [Animal recognition](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Machine%20Learning/animals.ipynb)| 3 |
 | Kwaliteit AAI software | T | | | 3 |
+
+| **Personal** | **Vereiste soort** | **Soort** | **Link naar bewijs** | **Sprint** |
+|------    |-------------    |-------    |-------    |-------    |
+| Chatbot     | T           | T     | T     | [Testing Chatbot (website)](https://aai-chatbot-testing.netlify.app/)<br>[Training file]()<br>[Chatbot file](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Own%20Projects/api/chatbot/chatbot.py)<br>[API (Flask)](https://gitlab.fdmci.hva.nl/ozcana3/logboek-ai/-/blob/main/Own%20Projects/api/chatbot/training.ipynb)    |
