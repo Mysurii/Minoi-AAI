@@ -1,0 +1,139 @@
+[
+    {
+        "tag": "create_account",
+        "patterns": [
+            "How do I register?",
+            "I dont have an account.",
+            "I don't have a user account, how do I create one?",
+            "i dont have a account, i need help opening one",
+            "how can I open an online account?",
+            "ask an agent how i could create a user account",
+            "i dont have an online account, what can i do?",
+            "can i register?",
+            "i have no account, what do i have to do?",
+            "I have no account",
+            "I haven't got a user account, what should I do?",
+            "I haven't got an online account, how do I open one?",
+            "where to create an account",
+            "where can I create a user account?",
+            "I want an account",
+            "I don't have an account. Can u help me?"
+        ],
+        "responses": [
+            "Click on the register button on the homescreen. Follow the steps afterwards."
+        ]
+    },
+    {
+        "tag": "delete_account",
+        "patterns": [
+            "How do I delete an account?",
+            "can I close my account?",
+            "How do I delete my account?",
+            "how can I remove my profile?",
+            "Delete my account",
+            "I need help deleting my account",
+            "Where do I close my user account?",
+            "Where can I delete my account?"
+        ],
+        "responses": [
+            "Click on the create account button and follow the steps afterwards."
+        ]
+    },
+    {
+        "tag": "forgot_password",
+        "patterns": [
+            "I lost my password and I'd like to retrieve it, please",
+            "How can I reset my password?",
+            "I forgot my password",
+            "I lost my password",
+            "I can't remember my password"
+        ],
+        "responses": [
+            "Please send an email to johnDoe@support.com"
+        ]
+    },
+    {
+        "tag": "cancellation",
+        "patterns": [
+            "I want to cancel my order.",
+            "Can you cancel my order?",
+            "Please cancel my order.",
+            "Cancel my order."
+        ],
+        "responses": [
+            "I have no rights to cancel your order. Please contact the support department for further help."
+        ]
+    },
+    {
+        "tag": "cancellation_fee",
+        "patterns": [
+            "How much are the cancelation fees?",
+            "How much is the fee?",
+            "How much is the cancelation fee?",
+            "Is there a fee?",
+            "Is there a cancellation fee?"
+        ],
+        "responses": [
+            "There are no cancellation fees. It's completely free!"
+        ]
+    },
+    {
+        "tag": "order",
+        "patterns": [
+            "How do I order?",
+            "Where can I order?",
+            "I want to order"
+        ],
+        "responses": [
+            "To order, just click on 'order' on the menubar. It's that easy. You got this king!"
+        ]
+    },
+    {
+        "tag": "contact",
+        "patterns": [
+            "I want to contact Customer Support",
+            "can I contact Customer Support?",
+            "How do I contact Client Service?",
+            "How do I contact customer support?",
+            "Does the customer service has an email?",
+            "Does the customer service has a phone number?",
+            "Can you give me the email of the customer service?"
+        ],
+        "responses": [
+            "To contact with the customer support, please send an email to JohnDoe@support.com"
+        ]
+    },
+    {
+        "tag": "delivery_options",
+        "patterns": [
+            "how do I view the delivery options?",
+            "how long does the delivery take?",
+            "I need information about the delivery?",
+            "When can I expect to get my package?",
+            "how can I see the options for delivery?",
+            "I need information about the ticket delivery options",
+            "could u check the fucking delivery options, please?",
+            "I want to view the options for delivery",
+            "I want information about the delivery options",
+            "I need help seeing the options for delivery"
+        ],
+        "responses": [
+            "The delivery takes approcimately 3 workdays. Patients is key."
+        ]
+    },
+    {
+        "tag": "refund",
+        "patterns": [
+            "Can I get a refund?",
+            "How to refund",
+            "How can I refund something?",
+            "I want to refund something",
+            "How can I request to refund",
+            "Request to refund",
+            "I need to refund something"
+        ],
+        "responses": [
+            "You can get a refund. Unfortunately I have no rights to do so. Please contact the customer support. They can help you further."
+        ]
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "tag": "greeting",
+        "patterns": [
+            "Hi!",
+            "Hello",
+            "Hey",
+            "Morning",
+            "Hi!",
+            "Hi there",
+            "How are you?",
+            "Is anyone there?",
+            "Hola!",
+            "Good day",
+            "Yo",
+            "Wassup",
+            "Whaddup",
+            "Whats up",
+            "Good morning",
+            "Good evening",
+            "Good afternoon"
+        ],
+        "responses": [
+            "HI, how can I help you?",
+            "Hey! How can I help you?",
+            "yo! Got any questions?",
+            "Morning! Can I help you?",
+            "heya! How can I help you?",
+            "Hello! How can I help you?"
+        ]
+    },
+    {
+        "tag": "ask_fine",
+        "patterns": [
+            "How are you?",
+            "How is it going?",
+            "How are you doing?",
+            "are you alright?"
+        ],
+        "responses": [
+            "I am great! Thank you for asking."
+        ]
+    },
+    {
+        "tag": "name",
+        "patterns": [
+            "What's your name?",
+            "Who are you?",
+            "Whats your name?",
+            "Who is you?",
+            "Tell me your name",
+            "Who are you?"
+        ],
+        "responses": [
+            "I am Jade, the virtual assistant of"
+        ]
+    },
+    {
+        "tag": "goodbye",
+        "patterns": [
+            "Goodbye!",
+            "See you later!",
+            "Nice chatting to you, bye!",
+            "Bye",
+            "Till next time",
+            "Ciao!",
+            "cya",
+            "Im gone",
+            "I am leaving",
+            "g2g",
+            "gotta go"
+        ],
+        "responses": [
+            "Have a great day!",
+            "Have a nice day. See you later!"
+        ]
+    },
+    {
+        "tag": "thanks",
+        "patterns": [
+            "Thanks!",
+            "Thank you!",
+            "That's helpful",
+            "Awesome, thanks!",
+            "Thanks for helping me",
+            "ty",
+            "tyvm"
+        ],
+        "responses": [
+            "No worries!",
+            "Anytime!"
+        ]
+    }
+]
